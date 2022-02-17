@@ -1,4 +1,5 @@
 # HW#6
+
 ### 1 – What is the difference between manual testing and automated testing ?
 ### 2 – What does Assert class ?
 ### 3 - How can be tested 'private' methods ?
@@ -13,4 +14,3 @@
 ### 12 – What is container in Microservices ?
 ### 13 - What are the main components of Microservices architecture ?
 ### 14 - How does a Microservice architecture work?
-
